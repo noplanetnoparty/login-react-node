@@ -1,2 +1,2 @@
 # login-react-node
-User login from scratch from using React and Node
+User login using React and Node
